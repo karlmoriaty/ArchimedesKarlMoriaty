@@ -30,7 +30,7 @@ leave a star.
 
 [![GitHub](https://img.shields.io/badge/GitHub-karlmoriaty-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karlmoriaty)
 [![X](https://img.shields.io/badge/X-%40karlmoriaty-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/karlmoriaty)
-[![npm](https://img.shields.io/badge/npm-return__rp-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/return_rp)
+[![npm](https://img.shields.io/badge/npm-~karlmoriaty-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~karlmoriaty)
 [![Email](https://img.shields.io/badge/Email-karlmoriaty%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karlmoriaty@gmail.com)
 
 ---
@@ -65,7 +65,7 @@ write 权限维护者，并在开发
 
 - GitHub: [karlmoriaty](https://github.com/karlmoriaty)
 - X: [@karlmoriaty](https://x.com/karlmoriaty)
-- npm: [return_rp](https://www.npmjs.com/package/return_rp)
+- npm: [karlmoriaty](https://www.npmjs.com/~karlmoriaty)
 - 邮箱: [karlmoriaty@gmail.com](mailto:karlmoriaty@gmail.com)
 
 ---
@@ -78,17 +78,26 @@ write 权限维护者，并在开发
 
 ## Languages and Tools
 
-### Languages and Frameworks
+### Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Frontend and Runtime
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### Databases
 
@@ -96,6 +105,16 @@ write 权限维护者，并在开发
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Game Engines and Design
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure-0052CC?style=flat-square&logo=axure&logoColor=white)
 
 ### Tools and IDEs
 
@@ -111,3 +130,6 @@ write 权限维护者，并在开发
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
