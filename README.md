@@ -1,40 +1,113 @@
-### Hi, I'm Karl
+# Karl Moriaty
 
-C# / Rust developer. Write-access maintainer of
-[handlebars-rust](https://github.com/sunng87/handlebars-rust) — PR review,
-issue triage, and Windows-related fixes.
+Hello! I'm Karl Moriaty (Karl is my given name, and Moriaty is my family name).
+I'm a third-year university student, about to enter my senior year.
 
-[![handlebars downloads](https://img.shields.io/crates/d/handlebars?label=handlebars%20downloads)](https://crates.io/crates/handlebars)
-[![return_rp downloads](https://img.shields.io/npm/dw/return_rp?label=return_rp%20downloads)](https://www.npmjs.com/package/return_rp)
+I'm a cybersecurity beginner and a software developer, working toward becoming
+either a cybersecurity engineer or a full-time programmer.
 
-- Currently: reviewing handlebars-rust PRs; contributing Windows/CMake fixes to
-  [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)
-- Building: [return_rp](https://github.com/karlmoriaty/AxurePR-return-rp) — an
-  Axure RP MCP server, published on npm as `return_rp`
-- Interests: C#/.NET desktop, Rust CLI and LSP, developer tooling, MCP
+C# is my favorite programming language. I also enjoy using Go and TypeScript,
+and I'm passionate about Rust. I write small C# tools for everyday use, and for
+low-level work I like to use Rust for infrastructure and refactoring.
 
-#### Selected work
+I work across the full stack, mostly in desktop development: C#, Go, Rust, and
+Node.js on the backend; JavaScript/TypeScript, HTML, CSS, and Vue on the
+frontend. I'm also building [Azzer](https://github.com/karlmoriaty/azzer), an AI
+cover-song tool written in Rust.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [handlebars-rust](https://github.com/sunng87/handlebars-rust) | Rust templating engine, 1.5k stars, 100M+ downloads | Rust |
-| [return_rp](https://github.com/karlmoriaty/AxurePR-return-rp) | Axure RP 9/11 canvas and MCP server | TypeScript |
-| [azzer](https://github.com/karlmoriaty/azzer) | Local-first vocal processing pipeline | Rust |
-| [bat-treesitter-poc](https://github.com/karlmoriaty/bat-treesitter-poc) | tree-sitter highlighting for bat | Rust |
-| [IndustrialEdgeDebugger](https://github.com/karlmoriaty/IndustrialEdgeDebugger) | Serial/USB/Bluetooth debugging for edge devices | C# |
-| [TableManager](https://github.com/karlmoriaty/TableManager) | Small-business ERP/CRM desktop app | C# |
+Currently, I'm a write-access maintainer of
+[handlebars-rust](https://github.com/sunng87/handlebars-rust), and I'm building
+[return_rp](https://github.com/karlmoriaty/AxurePR-return-rp) (an Axure RP MCP
+server) and Azzer.
 
-#### Stats
+I'm a big fan of Minecraft and League of Legends, and I also enjoy fighting
+games such as Naruto and Bleach vs. Naruto.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlmoriaty&layout=compact&hide_title=true)
+Feel free to look around! I hope you enjoy my projects, and don't forget to
+leave a star.
 
-#### Elsewhere
+### Connect
 
-- X: [@karlmoriaty](https://x.com/karlmoriaty)
-- npm: [return_rp](https://www.npmjs.com/package/return_rp)
-- Email: karlmoriaty@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-karlmoriaty-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karlmoriaty)
+[![X](https://img.shields.io/badge/X-%40karlmoriaty-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/karlmoriaty)
+[![npm](https://img.shields.io/badge/npm-return__rp-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/return_rp)
+[![Email](https://img.shields.io/badge/Email-karlmoriaty%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karlmoriaty@gmail.com)
 
 ---
 
-中国开发者，C# 与 Rust 爱好者，目前在维护 handlebars-rust，并为 neocmakelsp
-提交 Windows/CMake 相关修复。喜欢做开发者工具和桌面应用。
+## 中文（简体）
+
+你好！我是 Karl Moriaty（卡尔是我的名，莫里亚蒂是我的姓），目前是一名大三的
+在校大学生，即将升入大四。
+
+作为一名网络安全初学者和软件开发者，我正在努力成为一名网络安全工程师，或者
+一名纯粹的程序员。
+
+C# 是我最喜欢的编程语言，我也喜欢使用 Go 和 TypeScript，并且非常热衷于
+Rust。我会用 C# 写一些小工具方便日常使用；涉及底层逻辑开发时，我喜欢用 Rust
+做基础设施或重构。
+
+目前我主要活跃在全栈技术栈中（以桌面开发为主）：后端使用 C#、Go、Rust、
+Node.js，前端使用 JavaScript/TypeScript、HTML、CSS、Vue。我还在用 Rust
+开发一个 AI 翻唱工具 [Azzer](https://github.com/karlmoriaty/azzer)。
+
+目前我是 [handlebars-rust](https://github.com/sunng87/handlebars-rust) 的
+write 权限维护者，并在开发
+[return_rp](https://github.com/karlmoriaty/AxurePR-return-rp)（Axure RP MCP
+服务器）和 Azzer。
+
+我非常喜欢玩 Minecraft 和英雄联盟，也喜欢一些格斗游戏（比如火影忍者、
+死神 VS 火影）。
+
+欢迎随便逛逛！希望你能喜欢我写的程序，也别忘了点个 star。
+
+### 社交账号
+
+- GitHub: [karlmoriaty](https://github.com/karlmoriaty)
+- X: [@karlmoriaty](https://x.com/karlmoriaty)
+- npm: [return_rp](https://www.npmjs.com/package/return_rp)
+- 邮箱: [karlmoriaty@gmail.com](mailto:karlmoriaty@gmail.com)
+
+---
+
+## GitHub Stats
+
+| GitHub Stats | Most Used Languages |
+|:---:|:---:|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karlmoriaty&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlmoriaty&layout=compact&langs_count=8&hide_border=true) |
+
+## Languages and Tools
+
+### Languages and Frameworks
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools and IDEs
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=goland&logoColor=white)
+![RustRover](https://img.shields.io/badge/RustRover-000000?style=flat-square&logo=rust&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
