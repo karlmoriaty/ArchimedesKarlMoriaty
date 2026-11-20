@@ -1,32 +1,52 @@
+<div align="center">
+
 # Karl Moriaty
 
-Hello! I'm Karl Moriaty (Karl is my given name, and Moriaty is my family name).
-I'm a third-year university student, about to enter my senior year.
+**Cybersecurity student · C# / Rust developer · Open-source maintainer**
 
-I'm a cybersecurity beginner and a software developer, working toward becoming
-either a cybersecurity engineer or a full-time programmer.
+[GitHub](https://github.com/karlmoriaty) · [X](https://x.com/karlmoriaty) · [npm](https://www.npmjs.com/~karlmoriaty) · [Email](mailto:karlmoriaty@gmail.com)
 
-C# is my favorite programming language. I also enjoy using Go and TypeScript,
-and I'm passionate about Rust. I write small C# tools for everyday use, and for
-low-level work I like to use Rust for infrastructure and refactoring.
+</div>
 
-I work across the full stack, mostly in desktop development: C#, Go, Rust, and
-Node.js on the backend; JavaScript/TypeScript, HTML, CSS, and Vue on the
-frontend. I'm also building [Azzer](https://github.com/karlmoriaty/azzer), an AI
-cover-song tool written in Rust.
+I'm a third-year cybersecurity student and software developer. C# is my favorite language: I build desktop tools with it, use Rust for low-level work, and work across the stack with Go, TypeScript, Node.js, and Vue. I help maintain [handlebars-rust](https://github.com/sunng87/handlebars-rust) with write access, and I'm currently building [Azzer](https://github.com/karlmoriaty/azzer) and [return_rp](https://github.com/karlmoriaty/AxurePR-return-rp).
 
-Currently, I'm a write-access maintainer of
-[handlebars-rust](https://github.com/sunng87/handlebars-rust), and I'm building
-[return_rp](https://github.com/karlmoriaty/AxurePR-return-rp) (an Axure RP MCP
-server) and Azzer.
+I'm a big fan of Minecraft and League of Legends, and I also enjoy fighting games such as Naruto and Bleach vs. Naruto.
 
-I'm a big fan of Minecraft and League of Legends, and I also enjoy fighting
-games such as Naruto and Bleach vs. Naruto.
+Feel free to look around! I hope you enjoy my projects, and don't forget to leave a star.
 
-Feel free to look around! I hope you enjoy my projects, and don't forget to
-leave a star.
+## Featured Projects
 
-### Connect
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [Azzer](https://github.com/karlmoriaty/azzer) | Local-first vocal pipeline that turns a raw vocal take into a release-ready track | Rust |
+| [return_rp](https://github.com/karlmoriaty/AxurePR-return-rp) | Axure RP 9/11 native prototype generator with AI Studio, CLI and MCP | TypeScript · Node.js |
+| [interior-moodboard-3d](https://github.com/karlmoriaty/interior-moodboard-3d) | Drag material samples into a cutaway apartment; move furniture and sunlight | Three.js · HTML |
+| [XSocialMiner](https://github.com/karlmoriaty/XSocialMiner) | Local X/Twitter data collection with a WPF dashboard | C# · WPF · Playwright |
+
+<p align="center">
+  <a href="https://github.com/karlmoriaty/AxurePR-return-rp">
+    <img src="https://raw.githubusercontent.com/karlmoriaty/AxurePR-return-rp/main/assets/readme/cover.svg" alt="return_rp cover" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karlmoriaty/interior-moodboard-3d">
+    <img src="https://raw.githubusercontent.com/karlmoriaty/interior-moodboard-3d/main/preview.png" alt="interior-moodboard-3d preview" width="100%" />
+  </a>
+</p>
+
+## Open Source
+
+**handlebars-rust** — maintainer with write access · [repository](https://github.com/sunng87/handlebars-rust)  
+1.5k+ stars · 106M+ downloads · 841 dependent crates  
+Reviewing pull requests and helping maintain the Rust Handlebars implementation.
+
+**neocmakelsp** — contributor  
+Fixed Windows `find_package` handling across multiple `CMAKE_PREFIX_PATH` entries ([PR #414](https://github.com/neocmakelsp/neocmakelsp/pull/414), merged).
+
+Also contributed merged PRs to OpenTofu, Agones, Redux, MaterialDesignInXaml, Nuclei, vscode-beancount, and openDCIM.
+
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-karlmoriaty-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karlmoriaty)
 [![X](https://img.shields.io/badge/X-%40karlmoriaty-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/karlmoriaty)
@@ -37,27 +57,17 @@ leave a star.
 
 ## 中文（简体）
 
-你好！我是 Karl Moriaty（卡尔是我的名，莫里亚蒂是我的姓），目前是一名大三的
-在校大学生，即将升入大四。
+你好！我是 Karl Moriaty（卡尔是我的名，莫里亚蒂是我的姓），目前是一名大三的在校大学生，即将升入大四。
 
-作为一名网络安全初学者和软件开发者，我正在努力成为一名网络安全工程师，或者
-一名纯粹的程序员。
+作为一名网络安全初学者和软件开发者，我正在努力成为一名网络安全工程师，或者一名纯粹的程序员。
 
-C# 是我最喜欢的编程语言，我也喜欢使用 Go 和 TypeScript，并且非常热衷于
-Rust。我会用 C# 写一些小工具方便日常使用；涉及底层逻辑开发时，我喜欢用 Rust
-做基础设施或重构。
+C# 是我最喜欢的编程语言，我也喜欢使用 Go 和 TypeScript，并且非常热衷于 Rust。我会用 C# 写一些小工具方便日常使用；涉及底层逻辑开发时，我喜欢用 Rust 做基础设施或重构。
 
-目前我主要活跃在全栈技术栈中（以桌面开发为主）：后端使用 C#、Go、Rust、
-Node.js，前端使用 JavaScript/TypeScript、HTML、CSS、Vue。我还在用 Rust
-开发一个 AI 翻唱工具 [Azzer](https://github.com/karlmoriaty/azzer)。
+目前我主要活跃在全栈技术栈中（以桌面开发为主）：后端使用 C#、Go、Rust、Node.js，前端使用 JavaScript/TypeScript、HTML、CSS、Vue。我还在用 Rust 开发一个 AI 翻唱工具 [Azzer](https://github.com/karlmoriaty/azzer)。
 
-目前我是 [handlebars-rust](https://github.com/sunng87/handlebars-rust) 的
-write 权限维护者，并在开发
-[return_rp](https://github.com/karlmoriaty/AxurePR-return-rp)（Axure RP MCP
-服务器）和 Azzer。
+目前我是 [handlebars-rust](https://github.com/sunng87/handlebars-rust) 的 write 权限维护者，并在开发 [return_rp](https://github.com/karlmoriaty/AxurePR-return-rp)（Axure RP MCP 服务器）和 Azzer。
 
-我非常喜欢玩 Minecraft 和英雄联盟，也喜欢一些格斗游戏（比如火影忍者、
-死神 VS 火影）。
+我非常喜欢玩 Minecraft 和英雄联盟，也喜欢一些格斗游戏（比如火影忍者、死神 VS 火影）。
 
 欢迎随便逛逛！希望你能喜欢我写的程序，也别忘了点个 star。
 
