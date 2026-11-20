@@ -24,12 +24,6 @@ Feel free to look around! I hope you enjoy my projects, and don't forget to leav
 | [XSocialMiner](https://github.com/karlmoriaty/XSocialMiner) | Local X/Twitter data collection with a WPF dashboard | C# · WPF · Playwright |
 
 <p align="center">
-  <a href="https://github.com/karlmoriaty/AxurePR-return-rp">
-    <img src="https://raw.githubusercontent.com/karlmoriaty/AxurePR-return-rp/main/assets/readme/cover.svg" alt="return_rp cover" width="100%" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/karlmoriaty/interior-moodboard-3d">
     <img src="https://raw.githubusercontent.com/karlmoriaty/interior-moodboard-3d/main/preview.png" alt="interior-moodboard-3d preview" width="100%" />
   </a>
